@@ -1,0 +1,23 @@
+{
+  "name": "stream-adventure-examples",
+  "version": "1.0.0",
+  "description": "Some examples of streams",
+  "main": "index.js",
+  "type": "module",
+  "author": "Rene Corrales",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "str-ad:verify": "stream-adventure verify",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "stream-adventure": "^4.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.11.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.5.1"
+  }
+}
