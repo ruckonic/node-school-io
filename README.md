@@ -9,3 +9,9 @@ Open source workshops that teach web software skills. Do them on your own or at 
 ### List
 
 - `stream-adventure`
+  - beep boop
+  - meet pipe
+  - input output
+  - read it
+  - write to me
+  - transform
